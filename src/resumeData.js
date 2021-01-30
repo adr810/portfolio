@@ -18,7 +18,7 @@ let resumeData = {
   ],
   aboutme:
     "Sou recém formado, em Análise e desenvolvimento de sistemas pela FMU. sou um desenvolvedor front end autodidata, fiz um estágio de 2 anos no INSS, onde eu desenvolvia landing pages usando HTML5, CSS e JavaScript.",
-  website: "its-mXc.github.io",
+  website: "https://adr810.github.io/react-portfolio/",
   email: "adr.flp810@gmail.com",
   address: "Bom Retiro, São Paulo",
   resumelink:
@@ -102,7 +102,6 @@ let resumeData = {
       description:
         "Portfolio template to present your talents and projects, built using ReactJS",
       imgurl: "images/portfolio/portfolio.png",
-      link: "https://its-mxc.github.io/",
       link: "https://github.com/its-mXc/react-portfolio",
       sourcecode: "https://github.com/its-mXc/react-portfolio",
     },
