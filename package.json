@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.6.0",
+    "git": "^0.1.5",
     "homepage": ".",
+    "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-particles-js": "^3.2.1",
     "react-scripts": "2.1.1"
