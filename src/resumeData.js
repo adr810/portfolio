@@ -73,39 +73,6 @@ let resumeData = {
       skillname: "Node",
     },
   ],
-  portfolio: [
-    {
-      name: "Prashna",
-      description:
-        "Question asking platform inspired from quora built using Ruby on Rails",
-      imgurl: "images/portfolio/Prashna.png",
-      link: "https://prashna-uday.herokuapp.com/",
-      sourcecode: "https://github.com/its-mXc/prashna",
-    },
-    {
-      name: "ToDoList",
-      description:
-        "React SPA using firbase,context, and integration testing and node-sass",
-      imgurl: "images/portfolio/todolist.png",
-      link: "https://github.com/its-mXc/prashna",
-      sourcecode: "https://github.com/its-mXc/todolist",
-    },
-    {
-      name: "Quick Components",
-      description: "Components for Quick Protoyping in ReactJS",
-      imgurl: "images/portfolio/quick-components.png",
-      link: "https://github.com/its-mXc/quick-components",
-      sourcecode: "https://github.com/its-mXc/quick-components",
-    },
-    {
-      name: "React Portfolio Template",
-      description:
-        "Portfolio template to present your talents and projects, built using ReactJS",
-      imgurl: "images/portfolio/portfolio.png",
-      link: "https://github.com/its-mXc/react-portfolio",
-      sourcecode: "https://github.com/its-mXc/react-portfolio",
-    },
-  ],
 };
 
 export default resumeData;
